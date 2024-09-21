@@ -1,0 +1,2 @@
+This project implements a real-time emotion detection system using Convolutional Neural Networks (CNN) to classify facial expressions captured through a webcam. The model categorizes emotions into seven classes: Angry, Disgust, Fear, Happy, Sad, Surprise, and Neutral, leveraging a dataset of 48x48 pixel grayscale images. With a focus on accuracy and efficiency, this application showcases the potential of deep learning in understanding human emotions in real time.
+
